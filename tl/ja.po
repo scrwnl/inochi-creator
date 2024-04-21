@@ -2103,7 +2103,7 @@ msgstr "パペットの修復"
 #. FULL REPAIR
 #: source/creator/widgets/mainmenu.d:527
 msgid "Attempt full repair..."
-msgstr "修復を試みます..."
+msgstr "修復を試みる..."
 
 #: source/creator/widgets/mainmenu.d:530
 msgid ""
