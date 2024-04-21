@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-10 00:12+0200\n"
+"POT-Creation-Date: 2024-04-21 23:29+0900\n"
 "PO-Revision-Date: 2023-07-11 01:01+0900\n"
 "Last-Translator: Nejikugi <63852665+scrwnl@users.noreply.github.com>\n"
 "Language-Team: Language ja\n"
@@ -2297,7 +2297,7 @@ msgstr "<<  割り当てなし  >>"
 
 #: source/creator/windows/flipconfig.d:378
 msgid "< Add new row >"
-msgstr "<　新しい行を追加 　>"
+msgstr "<　新しい行を追加　>"
 
 #: source/creator/windows/flipconfig.d:442
 msgid "Pair"
